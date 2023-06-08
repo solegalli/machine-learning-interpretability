@@ -6,7 +6,7 @@
 
 Code repository for the online course [Machine Learning Interpretability](https://www.courses.trainindata.com/p/machine-learning-interpretability)
 
-Published November, 2017
+**Coming soon!**
 
 Actively maintained.
 
