@@ -24,6 +24,7 @@ venv.bak/
 *.zip
 *.data
 *.txt
+*.labels
 
 # files not to put in repo
 Make-toy-finance-dataset.ipynb
