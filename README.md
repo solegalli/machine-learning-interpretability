@@ -4,13 +4,13 @@
 
 ## Machine Learning Interpretability- Code Repository
 
-Code repository for the online course [Machine Learning Interpretability](https://www.courses.trainindata.com/p/machine-learning-interpretability)
+Code repository for the online course [Machine Learning Interpretability](https://www.trainindata.com/p/machine-learning-interpretability)
 
 **Coming soon!**
 
 Actively maintained.
 
-[<img src="./mli_logo.png" width="248">](https://www.courses.trainindata.com/p/machine-learning-interpretability)
+[<img src="./mli_logo.png" width="248">](https://www.trainindata.com/p/machine-learning-interpretability)
 
 ## Table of Contents
 
@@ -44,4 +44,4 @@ Actively maintained.
 
 ## Links
 
-- [Online Course](https://www.courses.trainindata.com/p/machine-learning-interpretability)
+- [Online Course](https://www.trainindata.com/p/machine-learning-interpretability)
