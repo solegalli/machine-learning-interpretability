@@ -20,14 +20,14 @@ Actively maintained.
 	3. Intrinsically explainable models
 	4. Post-hoc explainability methods
 	5. Challenges to interpretability
-	6. How to make models more explainably
+	6. How to make models more explainable
 
 2. **Intrinsically Explainable Models**
 	1. Linear and Logistic Regression 
 	2. Decision trees
 	3. Random forests
 	4. Gradient boosting machines
-	5. Making global and local interpretability
+	5. Global and local interpretation
 
 3. **Post-hoc methods - Global explainability**
 	1. Permutation Feature Importance
