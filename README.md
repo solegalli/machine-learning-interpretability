@@ -6,7 +6,7 @@
 
 Code repository for the online course [Machine Learning Interpretability](https://www.trainindata.com/p/machine-learning-interpretability)
 
-**Coming soon!**
+**Course launch: 30th November, 2023**
 
 Actively maintained.
 
@@ -31,16 +31,23 @@ Actively maintained.
 
 3. **Post-hoc methods - Global explainability**
 	1. Permutation Feature Importance
-	2. EXPLAIN: hiding features
-	3. Partial dependency plots
-	4. Other
+	2. Partial dependency plots
+	3. Accumulated local effects
 
 4. **Post-hoc methods - Local explainability**
 	1. LIME
 	2. SHAP
 	3. Individual contitional expectation
-	4. Other
 
+5. **Featuring the followning Python interpretability libraries**
+   	1. Scikit-learn
+   	2. treeinterpreter
+   	3. Eli5
+   	4. Dalex
+   	5. Alibi
+   	6. pdpbox
+   	7. Lime
+   	8. Shap
 
 ## Links
 
