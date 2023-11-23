@@ -39,7 +39,7 @@ Actively maintained.
 	2. SHAP
 	3. Individual contitional expectation
 
-5. **Featuring the followning Python interpretability libraries**
+5. **Featuring the following Python interpretability libraries**
    	1. Scikit-learn
    	2. treeinterpreter
    	3. Eli5
