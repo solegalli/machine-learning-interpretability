@@ -1,0 +1,8 @@
+pandas>=3.0.5
+matplotlib>=3.11.1
+scikit-learn>=1.9.0
+feature_engine>=1.9.4
+seaborn>=0.13.2
+eli5>=0.16.0
+xgboost>=3.4.1
+lightgbm>=4.7.0

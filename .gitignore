@@ -24,6 +24,7 @@ venv.bak/
 *.zip
 *.data
 *.txt
+!requirements.txt
 *.labels
 
 # files not to put in repo
