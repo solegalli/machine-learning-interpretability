@@ -30,3 +30,6 @@ venv.bak/
 # files not to put in repo
 Make-toy-finance-dataset.ipynb
 tbf
+
+# Mac stuff
+*.DS_Store
