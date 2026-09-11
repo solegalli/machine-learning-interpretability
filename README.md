@@ -9,7 +9,9 @@ Learn how to interpret and explain machine-learning models — from intrinsicall
 This repository contains the practical notebooks for the **[Machine Learning Interpretability](https://www.trainindata.com/p/machine-learning-interpretability)** course. The examples cover both intrinsically explainable models and model-agnostic post-hoc explainability methods, using scikit-learn, statsmodels, XGBoost, LightGBM, eli5, LIME, and SHAP.
 
 **Course launch:** November 2023
+
 **Last updated:** September 2026
+
 **Status:** Actively maintained
 
 [<img src="./mli_logo.png" width="248" alt="Train in Data">](https://www.trainindata.com/p/machine-learning-interpretability)
